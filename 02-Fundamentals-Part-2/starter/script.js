@@ -56,3 +56,22 @@ const yearsUntilRetired = function (birthYear, firstName){
 }
 
 console.log(yearsUntilRetired(1970, "Bob"))
+
+////////////////////////////////////
+//Working with arrays
+
+const friends = ['John', 'Seth', 'David'];
+
+//OR
+
+const years = new Array(2003, 2004, 2005);
+
+//Printing
+console.log(friends[0]);
+console.log(friends[1]);
+console.log(friends[2]);
+
+console.log(friends.length); //gives length of array
+
+//multiple data types in an array
+const mixture = ['Jonas', 'John', 2037- 1991, 'Bob', friends];
