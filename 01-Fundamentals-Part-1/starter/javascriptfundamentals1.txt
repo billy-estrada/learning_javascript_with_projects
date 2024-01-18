@@ -1,0 +1,5 @@
+Started course 12/20/2023
+
+Learning examples located in script.js files.
+
+Challenge examples located in challenge files.
